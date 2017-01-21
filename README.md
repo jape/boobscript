@@ -17,8 +17,8 @@ VARIABLE & MATH:
 
 CONSTRUCTS:
 (o ... o)   : loop
-###A        : break loop if var = ###
-###B        : break loop if iteration = ###
+\#\#\#A        : break loop if var = ###
+\#\#\#B        : break loop if iteration = ###
 
 DISPLAY:
 (_Y_)       : ascii mode
